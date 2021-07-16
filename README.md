@@ -6,7 +6,7 @@ Nothing much about this script. Whenever you shoot, the bullet hits the player t
 
 ## Script
 
-Load the script by using the code below or by copying it from [here](https://github.com/ExunysDev/CBROX-Silent-Aim/blob/main/Counter%20Blox%20Silent%20Aim.lua).
+Load the script by using the code below or by copying it from [here](https://github.com/Exunys/CBROX-Silent-Aim/blob/main/Counter%20Blox%20Silent%20Aim.lua).
 ```lua
 loadstring(game:HttpGet("https://pastebin.com/raw/yUFyMWU0"))()
 ```
